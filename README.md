@@ -1,5 +1,5 @@
-# Qata_FIFA_World_Cup_22
-Welcome to the **Qatar 2022 World Cup Twitter Dataset** companion notebook! 🎉  
+# Tracking the Global Pulse: The First Multilingual Twitter Dataset from the FIFA World Cup
+🎉Welcome to the **Qatar 2022 World Cup Twitter Dataset** companion notebook! 🎉  
 🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples &amp; Full Codebook Welcome to the Qatar 2022 World Cup Twitter Dataset companion notebook!
 
 This notebook "fifa-wc-qatar22-examples-of-queries.ipynb" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
