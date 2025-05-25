@@ -1,8 +1,7 @@
 # Tracking the Global Pulse: The First Multilingual Twitter Dataset from the FIFA World Cup
 🎉Welcome to the **Qatar 2022 World Cup Twitter Dataset** companion notebook! 🎉  
-🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples &amp; Full Codebook Welcome to the Qatar 2022 World Cup Twitter Dataset companion notebook!
 
-This notebook "fifa-wc-qatar22-examples-of-queries.ipynb" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
+The notebook "fifa-wc-qatar22-examples-of-queries.ipynb" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
 
 ✅ Clear **variable definitions**  
 ✅ Example **real-world queries**  
@@ -35,11 +34,11 @@ Each row in `Qatar22WC.csv` represents a **single tweet**, enriched with **user-
 - `hou`, `min`, `sec`: Time of the tweet (hour, minute, second).
 - `is_reply_to_tweet`: ID of the tweet being replied to (if applicable); `NaN` if not a reply.
 - `is_quote`: `1` if the tweet is a quote tweet; otherwise `0`.
-- `retid`: ID of the retweeted tweet (if any); `"0"` or `NaN` means it is not a retweet.
+- `retid`: ID of the retweeted tweet (if any); `0` or `NaN` means it is not a retweet.
 - `lang`: Language of the tweet (e.g., `'ar'` for Arabic, `'en'` for English).
 - `hashtags`: List of hashtags used in the tweet (stored as a string).
-- `is_image`: `True` if the tweet includes an image.
-- `is_video`: `True` if the tweet includes a video.
+- `is_image`: `1` if the tweet includes an image.
+- `is_video`: `1` if the tweet includes a video.
 ---
 ## 🔎 Popular Query Types
 
