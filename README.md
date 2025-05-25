@@ -2,7 +2,7 @@
 Welcome to the **Qatar 2022 World Cup Twitter Dataset** companion notebook! 🎉  
 🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples &amp; Full Codebook Welcome to the Qatar 2022 World Cup Twitter Dataset companion notebook!
 
-This notebook "" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
+This notebook "fifa-wc-qatar22-examples-of-queries.ipynb" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
 
 ✅ Clear **variable definitions**  
 ✅ Example **real-world queries**  
@@ -40,7 +40,7 @@ Each row in `Qatar22WC.csv` represents a **single tweet**, enriched with **user-
 - `hashtags`: List of hashtags used in the tweet (stored as a string).
 - `is_image`: `True` if the tweet includes an image.
 - `is_video`: `True` if the tweet includes a video.
-
+---
 ## 🔎 Popular Query Types
 
 💬 Looking for quick insights? Here are some **query ideas** to get you started:
@@ -55,12 +55,6 @@ Each row in `Qatar22WC.csv` represents a **single tweet**, enriched with **user-
 
 ---
 
-📢 **Pro Tip**: Combine filters for complex queries, e.g.,  
-```python
-df[(df['verified'] == "1") & (df['lang'] == 'ar') & (df['is_image'] == "1")]
-
-
----
 
 ## 📌 Dataset Access
 
@@ -74,7 +68,7 @@ If you use this dataset in your research or project, please cite the following w
 > Daouadi, K. E., Boualleg, Y., Guehairia, O., & Taleb-Ahmed, A. (2025).  
 > *Tracking the Global Pulse: The First Public Twitter Dataset from the FIFA World Cup*.  
 > *Journal of Computational Social Science*.
-
+---
 ### 📘 BibTeX:
 ```bibtex
 @article{daouadi2025worldcup,
