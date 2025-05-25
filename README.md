@@ -1,10 +1,8 @@
-@@ -1,2 +1,65 @@
 # Qata_FIFA_World_Cup_22
-🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples &amp; Full Codebook Welcome to the Qatar 2022 World Cup Twitter Dataset companion notebook!
-### 🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples & Full Codebook
-
 Welcome to the **Qatar 2022 World Cup Twitter Dataset** companion notebook! 🎉  
-This notebook is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
+🚀 Qatar 2022 World Cup Twitter Dataset: Query Examples &amp; Full Codebook Welcome to the Qatar 2022 World Cup Twitter Dataset companion notebook!
+
+This notebook "" is designed to help researchers and practitioners **understand, explore, and query** the dataset efficiently. It includes:
 
 ✅ Clear **variable definitions**  
 ✅ Example **real-world queries**  
