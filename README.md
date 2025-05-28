@@ -58,7 +58,7 @@ Each row in `Qatar22WC.csv` represents a **single tweet**, enriched with **user-
 
 ## 📌 Dataset Access
 
-📂 **Download the dataset here**:  👉 [Qatar 2022 World Cup Twitter Dataset](https://data.mendeley.com/datasets/gw3mcnbkwr/1)
+📂 **Download the dataset here**:  👉 [Qatar 2022 World Cup Twitter Dataset](https://data.mendeley.com/datasets/gw3mcnbkwr/2)
 ---
 
 ## 🧾 Citation
